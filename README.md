@@ -31,4 +31,4 @@ i’m all about learning— and sometimes by messing things up first!
 
 ---
 
-> *“still figuring it out, over a glass of filtered coffee and uncooked cookies✨”*
+> *“still figuring it out, over a glass of filtered coffee and half baked cookies✨”*
