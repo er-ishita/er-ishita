@@ -7,19 +7,19 @@ i’m all about learning— and sometimes by messing things up first!
 
 ## 🚀 currently into
 - 🧩 **C++ & OOP** (where logic meets chaos)
-- 🌐 **web dev** — html, css, js, and all that fun front-end magic
+- 🌐 **computer vision** — python,mediapipe and opencv when your code comes alive
 - 🧠 **data structures & algorithms** (slowly but surely making peace with them)
 
 ---
 
 ## 🛠️ projects i’ve been building
-- ✈️ **TripMate** – my very first web project that helps campus folks connect for trips; built with love, caffeine, and way too many commits 💬
-- 🎬 **Netflix Talks** – a sleek streaming-inspired site where firebase meets movie magic    
+-  **Picture Puzzle** – imagine capturing what you see on screen, and turn it into a 3x3 puzzle like old times. yes that. with a twist- mouse dont exist and you do it all by hands- magical
+-  **Photo-Booth** – click cutesy photobooth style picture, generate strips and download!    
 
 ---
 
 ## ✨ next on my list
-- ⚛️ diving into **react** (because js wasn’t chaotic enough already)
+- ⚛️ diving into **pygame** (next? maybe?) 
 - 💬 contributing to **open-source**
 - 🎯 getting better at **competitive coding**
 
